@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "113556120724",
+    "firebase_url": "https://rockonloud.firebaseio.com",
+    "project_id": "rockonloud",
+    "storage_bucket": "rockonloud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113556120724:android:f64d3ef265489a72b00081",
+        "android_client_info": {
+          "package_name": "com.rockonloud.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113556120724-d6ph714ep2uabg65p0akgt9pcs7hbj24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5zlW1aXt9eKzvFLt_GciYDqTq4pbr3l8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113556120724-d6ph714ep2uabg65p0akgt9pcs7hbj24.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "113556120724-27o7t6fvbmrcidr6389si9m3rn45um5i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rockoutlouds.com"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113556120724:android:f6c2cbf658cd1d1cb00081",
+        "android_client_info": {
+          "package_name": "com.rockoutlouds.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113556120724-d6ph714ep2uabg65p0akgt9pcs7hbj24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5zlW1aXt9eKzvFLt_GciYDqTq4pbr3l8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113556120724-d6ph714ep2uabg65p0akgt9pcs7hbj24.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "113556120724-27o7t6fvbmrcidr6389si9m3rn45um5i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rockoutlouds.com"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
